@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextUtils-Pankaj/static/css/main.f855e6bc.css",
+    "main.js": "/TextUtils-Pankaj/static/js/main.f86d99dc.js",
+    "static/js/453.ed3810f9.chunk.js": "/TextUtils-Pankaj/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/TextUtils-Pankaj/index.html",
+    "main.f855e6bc.css.map": "/TextUtils-Pankaj/static/css/main.f855e6bc.css.map",
+    "main.f86d99dc.js.map": "/TextUtils-Pankaj/static/js/main.f86d99dc.js.map",
+    "453.ed3810f9.chunk.js.map": "/TextUtils-Pankaj/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f86d99dc.js"
+  ]
+}
